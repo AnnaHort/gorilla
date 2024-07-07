@@ -1,0 +1,9 @@
+.body{
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,8,31,0.75) 25%, rgba(3,9,28, 0.75) 50%,
+ rgba(3,9,28, 0.75) 75%, rgba(3,9,28,0.75) 100%),
+ url(./img/gorilla-bgc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
